@@ -1,0 +1,11 @@
+C:\Users\nicolas.mgrodrigues1\OneDrive - SENAC - SP\Documentos\UC9\DesafioIMC\DesafioIMC\bin\Debug\DesafioIMC.exe.config
+C:\Users\nicolas.mgrodrigues1\OneDrive - SENAC - SP\Documentos\UC9\DesafioIMC\DesafioIMC\bin\Debug\DesafioIMC.exe
+C:\Users\nicolas.mgrodrigues1\OneDrive - SENAC - SP\Documentos\UC9\DesafioIMC\DesafioIMC\bin\Debug\DesafioIMC.pdb
+C:\Users\nicolas.mgrodrigues1\OneDrive - SENAC - SP\Documentos\UC9\DesafioIMC\DesafioIMC\obj\Debug\DesafioIMC.csproj.AssemblyReference.cache
+C:\Users\nicolas.mgrodrigues1\OneDrive - SENAC - SP\Documentos\UC9\DesafioIMC\DesafioIMC\obj\Debug\DesafioIMC.csproj.SuggestedBindingRedirects.cache
+C:\Users\nicolas.mgrodrigues1\OneDrive - SENAC - SP\Documentos\UC9\DesafioIMC\DesafioIMC\obj\Debug\DesafioIMC.Form1.resources
+C:\Users\nicolas.mgrodrigues1\OneDrive - SENAC - SP\Documentos\UC9\DesafioIMC\DesafioIMC\obj\Debug\DesafioIMC.Properties.Resources.resources
+C:\Users\nicolas.mgrodrigues1\OneDrive - SENAC - SP\Documentos\UC9\DesafioIMC\DesafioIMC\obj\Debug\DesafioIMC.csproj.GenerateResource.cache
+C:\Users\nicolas.mgrodrigues1\OneDrive - SENAC - SP\Documentos\UC9\DesafioIMC\DesafioIMC\obj\Debug\DesafioIMC.csproj.CoreCompileInputs.cache
+C:\Users\nicolas.mgrodrigues1\OneDrive - SENAC - SP\Documentos\UC9\DesafioIMC\DesafioIMC\obj\Debug\DesafioIMC.exe
+C:\Users\nicolas.mgrodrigues1\OneDrive - SENAC - SP\Documentos\UC9\DesafioIMC\DesafioIMC\obj\Debug\DesafioIMC.pdb
